@@ -34,7 +34,7 @@ Additionally, to further improve user experience, adding a colored underline to 
 ![image](https://github.com/courtneysims/UFOs/blob/f84096791c5e2b89eca62b5ba5a44f35325ec91a/Resources/active_search_field.PNG)
 
 
-The suggested design adjustments will further support the user's experience when filtering the table for specific sightings.
+It is not explicitly clear that the table is updated after entering search criteria, adding a "search results button" is another feature that would improve the function of the webpage for user interface. The suggested design adjustments will further support the user's experience when filtering the table for specific sightings.
 
 
 
