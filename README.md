@@ -11,6 +11,8 @@ The purpose of this project is to create a webpage and dynamic table that allows
 
 Users can enter a search term corresponding to the appropriate search field for date, city, state, country, and shape.
 
+![image](https://github.com/courtneysims/UFOs/blob/2eb2d098d6a9934b686e62367406db6f2b3bde8f/Resources/webpage_snapshot.PNG)
+
 ![image](https://github.com/courtneysims/UFOs/blob/70cc17ee1aebce48a551572996727e14afff0934/Resources/filter_search.PNG)
 
 - single filter search:
@@ -34,7 +36,7 @@ Additionally, to further improve user experience, adding a colored underline to 
 ![image](https://github.com/courtneysims/UFOs/blob/f84096791c5e2b89eca62b5ba5a44f35325ec91a/Resources/active_search_field.PNG)
 
 
-It is not explicitly clear that the table is updated after entering search criteria, adding a "search results button" is another feature that would improve the function of the webpage for user interface. The suggested design adjustments will further support the user's experience when filtering the table for specific sightings.
+It is not explicitly clear that the table is updated after entering search criteria, adding a "search results" button is another feature that would improve the function of the webpage for user interface. The suggested design adjustments will further support the user's experience when filtering the table for specific sightings.
 
 
 
